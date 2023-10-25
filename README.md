@@ -47,4 +47,5 @@ Invise is a [CefSharp](https://github.com/cefsharp/CefSharp/) based open source 
 - Chrome extenshions support
 - Download option
 - Some optimization for profile history work
+- Add Mediator pattern
 - Other Chrome-browser features
